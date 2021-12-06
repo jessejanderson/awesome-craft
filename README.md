@@ -34,5 +34,6 @@ Awesome stuff for Craft Docs ([craft.do](https://www.craft.do))
 
 ### Videos
 
+- [A Better Computer: Here's exactly what you can do with Craft extensions today](https://youtu.be/UOj4DVPTy7Q)
 - [Keep Productive: Build a Home on Craft Docs](https://youtu.be/XVzlq30ThLs)
 - [Maggi Fuchs: Craft Docs as a Task Manager?! How I organize my to-do lists & stay productive (with iOS Shortcuts)](https://youtu.be/V5aeMqWc2Ac)
