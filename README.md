@@ -6,6 +6,7 @@ Awesome stuff for Craft Docs ([craft.do](https://www.craft.do))
 - [Articles](#articles)
 - [Extensions](#extensions)
 - [Podcasts](#podcasts)
+- [Utilities](#utilities)
 - [Videos](#videos)
 
 ### Official Craft Resources
@@ -27,4 +28,11 @@ Awesome stuff for Craft Docs ([craft.do](https://www.craft.do))
 
 - [Untold Stories: A Fresh Take on Documents - The Untold Story of Craft](https://soundcloud.com/untold-stories-podcast/a-fresh-take-on-documents-the-untold-story-of-craft)
 
+### Utilities
+
+- [Alfred-Craftdocs](https://github.com/kudrykv/alfred-craftdocs) - Alfred workflow for note search
+
 ### Videos
+
+- [Keep Productive: Build a Home on Craft Docs](https://youtu.be/XVzlq30ThLs)
+- [Maggi Fuchs: Craft Docs as a Task Manager?! How I organize my to-do lists & stay productive (with iOS Shortcuts)](https://youtu.be/V5aeMqWc2Ac)
