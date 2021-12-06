@@ -24,6 +24,14 @@ Awesome stuff for Craft Docs ([craft.do](https://www.craft.do))
 
 ### Extensions
 
+- [Official Examples for Extension Inspiration](https://github.com/craftdocs/craft-extension-inspirations)
+  - Craft Extension Example
+  - Export To Blog
+  - Hacker News Top 10
+  - Power Tools
+  - Send To Apps
+  - Snippets
+
 ### Podcasts
 
 - [Untold Stories: A Fresh Take on Documents - The Untold Story of Craft](https://soundcloud.com/untold-stories-podcast/a-fresh-take-on-documents-the-untold-story-of-craft)
