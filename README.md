@@ -23,4 +23,6 @@ Awesome stuff for Craft Docs ([craft.do](https://www.craft.do))
 
 ### Podcasts
 
+- [Untold Stories: A Fresh Take on Documents - The Untold Story of Craft](https://soundcloud.com/untold-stories-podcast/a-fresh-take-on-documents-the-untold-story-of-craft)
+
 ### Videos
