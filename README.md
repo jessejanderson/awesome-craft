@@ -19,6 +19,8 @@ Awesome stuff for Craft Docs ([craft.do](https://www.craft.do))
 
 ### Articles
 
+- [How I Use Craft for Personal Idea/Knowledge Management](https://jessejanderson.medium.com/how-i-use-craft-for-personal-idea-knowledge-management-7f77cdc9031)
+
 ### Extensions
 
 ### Podcasts
