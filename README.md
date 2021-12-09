@@ -31,14 +31,15 @@ Awesome stuff for Craft Docs ([craft.do](https://www.craft.do))
   - Power Tools
   - Send To Apps
   - Snippets
-- [Craft ToC Maker](https://github.com/timpcfan/craft-toc-maker) by timpcfan
-- [Craft Todoist](https://github.com/thomaszdxsn/craft-todoist) by thomaszdxsn
 - [Readwise Highlights](https://github.com/TfTHacker/craft42-readwise) by TfTHacker
+- [ToC Maker](https://github.com/timpcfan/craft-toc-maker) by timpcfan
 - [Todo Filter](https://github.com/IanLeatherbury/todo-filter) by IanLeatherbury
+- [Todoist](https://github.com/thomaszdxsn/craft-todoist) by thomaszdxsn
 
 ### Podcasts
 
 - [Untold Stories: A Fresh Take on Documents - The Untold Story of Craft](https://soundcloud.com/untold-stories-podcast/a-fresh-take-on-documents-the-untold-story-of-craft)
+- [Connected: Scatter My Content to The Sea](https://www.relay.fm/connected/375)
 
 ### Utilities
 
