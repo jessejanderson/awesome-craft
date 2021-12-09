@@ -31,6 +31,10 @@ Awesome stuff for Craft Docs ([craft.do](https://www.craft.do))
   - Power Tools
   - Send To Apps
   - Snippets
+- [Craft ToC Maker](https://github.com/timpcfan/craft-toc-maker) by timpcfan
+- [Craft Todoist](https://github.com/thomaszdxsn/craft-todoist)
+- [Readwise Highlights](https://github.com/TfTHacker/craft42-readwise) by TfTHacker
+- [Todo Filter](https://github.com/IanLeatherbury/todo-filter) by IanLeatherbury
 
 ### Podcasts
 
