@@ -1,6 +1,10 @@
 # awesome-craft
 Awesome stuff for Craft Docs ([craft.do](https://www.craft.do))
 
+## Contributing
+
+If there's something you think should be added, create a new issue or a pull request.
+
 ## Table of Contents
 - [Official Craft Resources](#official-craft-resources)
 - [Articles](#articles)
