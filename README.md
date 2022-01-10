@@ -1,7 +1,7 @@
 # awesome-craft
 Awesome stuff for Craft Docs ([craft.do](https://www.craft.do))
 
-## Contributing
+### Contributing
 
 If there's something you think should be added, create a new issue or a pull request.
 
