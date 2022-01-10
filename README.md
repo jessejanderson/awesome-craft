@@ -31,7 +31,11 @@ Awesome stuff for Craft Docs ([craft.do](https://www.craft.do))
   - Power Tools
   - Send To Apps
   - Snippets
+- [Craftist](https://github.com/FlohGro-dev/Craftist) by FlohGro-dev
+- [Insert Date](https://github.com/deadlyhifi/craft-x-insert-date) by deadlyhifi
+- [New Omnifocus Task](https://omni-automation.com/craft/omnifocus-new-task.html) by Sal Soghoian
 - [Readwise Highlights](https://github.com/TfTHacker/craft42-readwise) by TfTHacker
+- [Table of Contents](https://github.com/CsabaSzabo/craft-extension-table-of-content) by CsabaSzabo
 - [ToC Maker](https://github.com/timpcfan/craft-toc-maker) by timpcfan
 - [Todo Filter](https://github.com/IanLeatherbury/todo-filter) by IanLeatherbury
 - [Todoist](https://github.com/thomaszdxsn/craft-todoist) by thomaszdxsn
