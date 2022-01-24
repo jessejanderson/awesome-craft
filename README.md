@@ -37,6 +37,7 @@ If there's something you think should be added, create a new issue or a pull req
   - Snippets
 - [Craftist](https://github.com/FlohGro-dev/Craftist) by FlohGro-dev
 - [Insert Date](https://github.com/deadlyhifi/craft-x-insert-date) by deadlyhifi
+- [Jira](https://github.com/keegandonley/jira-craft-extension) by keegandonley
 - [New Omnifocus Task](https://omni-automation.com/craft/omnifocus-new-task.html) by Sal Soghoian
 - [Readwise Highlights](https://github.com/TfTHacker/craft42-readwise) by TfTHacker
 - [Table of Contents](https://github.com/CsabaSzabo/craft-extension-table-of-content) by CsabaSzabo
