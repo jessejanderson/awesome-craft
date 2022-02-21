@@ -40,6 +40,7 @@ If there's something you think should be added, create a new issue or a pull req
 - [Jira](https://github.com/keegandonley/jira-craft-extension) by keegandonley
 - [New Omnifocus Task](https://omni-automation.com/craft/omnifocus-new-task.html) by Sal Soghoian
 - [Readwise Highlights](https://github.com/TfTHacker/craft42-readwise) by TfTHacker
+- [Sight Portal](https://github.com/dkapila/Craft-SightPortal) by dkapila
 - [Table of Contents](https://github.com/CsabaSzabo/craft-extension-table-of-content) by CsabaSzabo
 - [ToC Maker](https://github.com/timpcfan/craft-toc-maker) by timpcfan
 - [Todo Filter](https://github.com/IanLeatherbury/todo-filter) by IanLeatherbury
@@ -53,6 +54,7 @@ If there's something you think should be added, create a new issue or a pull req
 ### Utilities
 
 - [Alfred-Craftdocs](https://github.com/kudrykv/alfred-craftdocs) - Alfred workflow for note search
+- [Add reminders to Reminders App](https://www.reddit.com/r/CraftDocs/comments/sscaq2/add_reminders_from_the_reminders_app_w_clickable/)
 
 ### Videos
 
