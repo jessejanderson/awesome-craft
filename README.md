@@ -45,6 +45,7 @@ If there's something you think should be added, create a new issue or a pull req
 - [ToC Maker](https://github.com/timpcfan/craft-toc-maker) by timpcfan
 - [Todo Filter](https://github.com/IanLeatherbury/todo-filter) by IanLeatherbury
 - [Todoist](https://github.com/thomaszdxsn/craft-todoist) by thomaszdxsn
+- [Tweet Helper](https://github.com/thepushkarp/craft-tweet-helper) by thepushkarp
 
 ### Podcasts
 
